@@ -1,0 +1,23 @@
+{
+  "name": "week_06_coding_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucui14/Week_6_Unit_Final_Coding_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cucui14/Week_6_Unit_Final_Coding_Project/issues"
+  },
+  "homepage": "https://github.com/cucui14/Week_6_Unit_Final_Coding_Project#readme",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
